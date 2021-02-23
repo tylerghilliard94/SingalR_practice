@@ -1,0 +1,41 @@
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\appsettings.json
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\libman.json
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\SignalR practice.exe
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\SignalR practice.deps.json
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\SignalR practice.runtimeconfig.json
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\SignalR practice.runtimeconfig.dev.json
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\SignalR practice.dll
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\ref\SignalR practice.dll
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\SignalR practice.pdb
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\SignalR practice.Views.dll
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\bin\Debug\net5.0\SignalR practice.Views.pdb
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.csprojAssemblyReference.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.AssemblyInfoInputs.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.AssemblyInfo.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.RazorAssemblyInfo.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.RazorAssemblyInfo.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\staticwebassets\SignalR practice.StaticWebAssets.Manifest.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\staticwebassets\SignalR practice.StaticWebAssets.xml
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\scopedcss\bundle\SignalR practice.styles.css
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.TagHelpers.input.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.TagHelpers.output.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.RazorCoreGenerate.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.RazorTargetAssemblyInfo.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.RazorTargetAssemblyInfo.cs
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.Views.pdb
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.dll
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\ref\SignalR practice.dll
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.pdb
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.genruntimeconfig.cache
+C:\Users\Tyler Hilliard\workspace\csharp\SignalR practice\SignalR practice\obj\Debug\net5.0\SignalR practice.csproj.CopyComplete
